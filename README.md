@@ -1,5 +1,7 @@
 # Onboarding-Study 🚀
 
+ <img src="https://github.com/brunosllz/Onboarding-Study/blob/main/src/assets/cover.png" title="onboarding">
+ 
 # Description
 Projeto desenvolvido com intuito de estudar animações e criação de um onboarding.
 
